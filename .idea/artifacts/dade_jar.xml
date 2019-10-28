@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="dade:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dade_jar</output-path>
+    <root id="archive" name="dade.jar">
+      <element id="module-output" name="dade" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jars/opencsv-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jars/javacsv-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

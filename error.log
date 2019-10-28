@@ -1,0 +1,12 @@
+java.io.FileNotFoundException: File ./database.csv does not exist.
+	at com.csvreader.CsvReader.<init>(Unknown Source)
+	at com.csvreader.CsvReader.<init>(Unknown Source)
+	at com.csvreader.CsvReader.<init>(Unknown Source)
+	at CSV.createUsers(CSV.java:41)
+	at Main.main(Main.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.exe4j.runtime.LauncherEngine.launch(Unknown Source)
+	at com.exe4j.runtime.WinLauncher.main(Unknown Source)
